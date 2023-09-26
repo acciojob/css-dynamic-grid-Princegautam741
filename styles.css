@@ -19,10 +19,8 @@ body {
   border-radius: 5px;
   font-size: 40px;
   margin: 10px;
-}
 
-/* Center content inside grid items */
-.grid-item {
+  /* Center content inside grid items */
   display: flex;
   align-items: center;
   justify-content: center;
